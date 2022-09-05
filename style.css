@@ -1,0 +1,99 @@
+body {
+	background-color:black;
+	background-image: url('aoq.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+h1 {
+	text-align:center;
+	color:white;
+	letter-spacing: 0.5px;
+	font-family: Cloister Black;
+	font-size: 75px;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+h2 {
+	text-align:center;
+	color:white;
+	padding-top: 200px;
+	font-family: Cloister Black;
+	font-size: 50px;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+h3 {
+	text-align:center;
+	color:white;
+	letter-spacing: 0.5px;
+	font-family: Cloister Black;
+	font-size: 40px;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+h4 {
+	text-align:center;
+	color:white;
+	padding-top: 65px;
+	font-family: Cloister Black;
+	font-size: 50px;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+h5 {
+	text-align:center;
+	color:white;
+	font-family: Cloister Black;
+	font-size: 50px;
+	-webkit-text-stroke-width: 0.5px;
+	-webkit-text-stroke-color: black;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 170px;
+  text-decoration: none;
+}
+
+
+iframe {
+	text-align: center;
+}
+
+button {
+	background-color: transparent;
+	width: 175px;
+	height: 50px;
+	font-size: 35px;
+	border: 0px;
+}
+
+a:visited {
+	color: white;
+
+}
+
+a:hover {
+	color: white;
+
+}
+
+a:active {
+	color: white;
+}
+
+.links {
+	letter-spacing: 0.5px;
+	font-family: Cloister Black;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+	color: white;
+}
